@@ -1,0 +1,10 @@
+let a int;
+a = 5;
+let b boolean;
+b = true;
+function setBoolean void(boolean r){
+b = b + a + r; }
+// llamada a funcion
+t boolean;
+t = false;
+setBoolean(t);

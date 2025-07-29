@@ -1,0 +1,12 @@
+let a int;
+let b int;
+function suma int (void){
+    let sum int;
+    sum = a + b;
+    return sum; }
+function resta int (void){
+    let res int;
+    res = a - b;
+    return res; }
+suma();
+resta();

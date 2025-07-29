@@ -1,0 +1,1 @@
+Error Sintactico -> Falta declaracion del tipo con let, ocurre en la linea 6

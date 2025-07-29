@@ -1,0 +1,48 @@
+Global:
+TABLA DE SIMBOLOS # 0 :
+lexema : 'a'
++ tipo: entero 
++ desp: 0
+
+
+TABLA DE SIMBOLOS # 1 :
+lexema : 'b'
++ tipo: entero 
++ desp: 1
+
+
+TABLA DE SIMBOLOS # 2 :
+lexema : 'suma'
++ tipo: funcion 
+  + numParam: 1
+  + TipoParam1: 'void'
+    + ModoParam1: 'por valor'
+  + TipoRetorno: 'entero'
+  + EtiqFuncion: 'Etsuma01'
+
+TABLA DE SIMBOLOS # 3 :
+lexema : 'resta'
++ tipo: funcion 
+  + numParam: 1
+  + TipoParam1: 'void'
+    + ModoParam1: 'por valor'
+  + TipoRetorno: 'entero'
+  + EtiqFuncion: 'Etresta01'
+
+
+
+
+
+Local: 
+
+--------------------------------------------------------
+Tabla de la FUNCION suma #3:
+lexema : 'sum'
++ tipo: entero 
++ desp: 2
+
+--------------------------------------------------------
+Tabla de la FUNCION resta #4:
+lexema : 'res'
++ tipo: entero 
++ desp: 3

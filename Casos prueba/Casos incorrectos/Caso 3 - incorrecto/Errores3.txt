@@ -1,0 +1,1 @@
+Error Semantico -> Asignacion no valida, ocurre en la linea 3

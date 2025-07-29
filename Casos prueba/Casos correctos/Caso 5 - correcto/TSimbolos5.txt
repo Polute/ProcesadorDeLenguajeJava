@@ -1,0 +1,32 @@
+Global:
+TABLA DE SIMBOLOS # 0 :
+lexema : 'a'
++ tipo: entero 
++ desp: 0
+
+
+TABLA DE SIMBOLOS # 1 :
+lexema : 'b'
++ tipo: logico 
++ desp: 1
+
+
+TABLA DE SIMBOLOS # 2 :
+lexema : 'setBoolean'
++ tipo: funcion 
+  + numParam: 1
+  + TipoParam1: 'logico'
+    + ModoParam1: 'por valor'
+  + TipoRetorno: 'void'
+  + EtiqFuncion: 'EtsetBoolean01'
+
+TABLA DE SIMBOLOS # 3 :
+lexema : 't'
++ tipo: logico 
++ desp: 7
+
+Local:
+Tabla de la FUNCION setBoolean #3:
+lexema : 'r'
++ tipo: logico 
++ desp: 4

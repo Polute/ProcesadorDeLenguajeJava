@@ -1,0 +1,3 @@
+Error Lexico -> Ha ocurrido un error en la linea 7 relacionado con: Falta un '*' para empezar el comentario en la linea 
+Error Semantico -> Las operaciones aritmeticas no aceptan logicos, ocurre en la linea 6
+Error Sintactico -> Se esperaba un '=' o '(' o ';', ocurre en la linea 7

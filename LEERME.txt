@@ -1,0 +1,14 @@
+Hola!
+
+Antes de ejecutar el fichero "AnalizadorPDL.java", deberás añadir a la raíz del java project (no dentro del src) la carpeta "ficheros", ya que en esta carpeta es donde se almacenará todos los datos referentes a: la tabla de símbolos, a la lista de tokens, el parse, etc. Además, se te incluye la carpeta "src" que es donde se almacena el paquete que contiene al fichero fuente de toda la práctica.
+
+Esta práctica ha sido sintetizado en un único fichero ("AnalizadorPDL.java"), donde podrás encontrar todo el código referente a los 3 módulos pedidos (Analizador léxico, sintáctico y semántico) y sus interacciones con la tabla de símbolos y el gestor de errores.
+
+También se incluye una carpeta dedicada únicamente a casos ya probados en el código proporcionado y en la herramienta de VAST, donde también se proporciona un fichero .txt llamado "Gramatica.txt", que contiene la gramática necesaria para usar dicha herramienta. Dentro de dicha carpeta, podremos encontrar dos carpetas que separan los casos correctos de los incorrectos. En cada carpeta de "caso #" hay 4 ficheros que proporcionan un código de prueba, su resultado en la tabla de símbolos, la lista de tokens y el parse (necesario para visualizar el árbol sintáctico en la herramienta de VAST en conjunto a la gramática ya proporcionada).
+
+Si se desea probar código y comprobar el funcionamiento del analizador, puede ingresar su código en el fichero "PruebaAnalizadorLexico.txt" y guardarlo, ya que el fichero .java analiza el código a través de este .txt.
+
+-----------------------------------------------------------------------------¡ Gracias por leer!--------------------------------------------------------------------------------------------
+
+
+

@@ -1,0 +1,22 @@
+Global: 
+TABLA DE SIMBOLOS # 0 :
+lexema : 'a'
++ tipo: entero 
++ desp: 0
+
+
+TABLA DE SIMBOLOS # 1 :
+lexema : 'b'
++ tipo: entero 
++ desp: 1
+
+
+TABLA DE SIMBOLOS # 2 :
+lexema : 'c'
++ tipo: entero 
++ desp: 2
+
+Local:
+
+
+

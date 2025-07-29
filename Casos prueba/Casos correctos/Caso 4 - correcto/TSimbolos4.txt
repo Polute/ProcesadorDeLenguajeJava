@@ -1,0 +1,45 @@
+Global:
+
+TABLA DE SIMBOLOS # 0 :
+lexema : 'a'
++ tipo: entero 
++ desp: 0
+
+
+TABLA DE SIMBOLOS # 1 :
+lexema : 'b'
++ tipo: entero 
++ desp: 1
+
+
+TABLA DE SIMBOLOS # 2 :
+lexema : 'c'
++ tipo: entero 
++ desp: 2
+
+
+TABLA DE SIMBOLOS # 3 :
+lexema : 'd'
++ tipo: entero 
++ desp: 3
+
+
+TABLA DE SIMBOLOS # 4 :
+lexema : 'feliz'
++ tipo: funcion 
+  + numParam: 1
+  + TipoParam1: 'void'
+    + ModoParam1: 'por valor'
+  + TipoRetorno: 'cadena'
+  + EtiqFuncion: 'Etfeliz01'
+
+TABLA DE SIMBOLOS # 5 :
+lexema : 'Pedroche'
++ tipo: cadena 
++ desp: 6
+Local:
+--------------------------------------------------------
+Tabla de la FUNCION feliz #5:
+lexema : 'res'
++ tipo: cadena 
++ desp: 4

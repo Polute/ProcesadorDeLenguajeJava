@@ -1,0 +1,8 @@
+let area string;
+function calcularAreaRectangulo void (int base, boolean altura) {
+	area = base * altura; }
+let a int;
+let b int;
+a = 2;
+b = 3;
+calcularAreaRectangulo(a,b);

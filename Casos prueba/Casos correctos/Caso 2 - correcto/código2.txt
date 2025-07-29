@@ -1,0 +1,8 @@
+let a int;
+let b int;
+a = 2;
+b = 3;
+if(a!=b){
+	let c int;
+	c = a + b;}
+

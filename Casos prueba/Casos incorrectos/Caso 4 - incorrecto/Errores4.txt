@@ -1,0 +1,1 @@
+Error Sintactico -> Error detectado debido al token <Resta,> en la linea 6

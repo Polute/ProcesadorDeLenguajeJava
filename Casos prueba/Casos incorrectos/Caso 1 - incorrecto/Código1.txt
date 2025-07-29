@@ -1,0 +1,6 @@
+let a int;
+let b int;
+function suma (void) {
+    let sum int;
+    sum = a + b;
+    return sum; }

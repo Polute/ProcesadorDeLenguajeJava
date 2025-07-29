@@ -1,0 +1,15 @@
+let a int;
+a = 3;
+b = 1;
+c = 3;
+d = 5;
+-a;
+-b;
+-c;
+--d;
+function feliz string(void){
+	let res string;
+	res = "Happy new year";
+	return res; }
+let Pedroche string;
+Pedroche = feliz();

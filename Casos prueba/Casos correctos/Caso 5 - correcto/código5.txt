@@ -1,0 +1,9 @@
+let a int;
+a = 5;
+let b boolean;
+b = true;
+function setBoolean void(boolean r){
+b = r;}
+let t boolean;
+t = false;
+setBoolean(r);

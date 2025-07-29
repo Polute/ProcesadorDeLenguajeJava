@@ -1,0 +1,7 @@
+let b int;
+a = 2;
+b = 3;
+if(){
+let c;
+c = a + b;
+}

@@ -1,0 +1,40 @@
+Global:
+TABLA DE SIMBOLOS # 0 :
+lexema : 'area'
++ tipo: entero 
++ desp: 0
+
+
+TABLA DE SIMBOLOS # 1 :
+lexema : 'calcularAreaRectangulo'
++ tipo: funcion 
+  + numParam: 2
+  + TipoParam1: 'entero'
+    + ModoParam1: 'por valor'
+  + TipoParam2: 'entero'
+    + ModoParam2: 'por valor'
+  + TipoRetorno: 'void'
+  + EtiqFuncion: 'EtcalcularAreaRectangulo01'
+
+TABLA DE SIMBOLOS # 1 :
+lexema : 'a'
++ tipo: entero 
++ desp: 3
+
+
+TABLA DE SIMBOLOS # 2 :
+lexema : 'b'
++ tipo: entero 
++ desp: 4
+
+
+Local:
+--------------------------------------------------------
+Tabla de la FUNCION calcularAreaRectangulo #2:
+lexema : 'base'
++ tipo: entero 
++ desp: 1
+
+lexema : 'altura'
++ tipo: entero 
++ desp: 2
